@@ -1,0 +1,2 @@
+# Glad
+Azure ARM templates
